@@ -10,4 +10,4 @@
 - 180423 <a href="https://note.youdao.com/share/?id=60f0b2ce567887ec6469e7f2220958f6&type=note#/" target="_blank">Tensorflow Serving 설치 with Ubuntu 16.04</a>
 
 ### 컴퓨터비전
-- [OpenCV를 이용한 얼굴인식 & 眼部인식](https://github.com/LEESYUNN/Prototyping/blob/master/OpenCV_face_eyes_detection.ipynb)
+- 180201 [OpenCV를 이용한 얼굴인식 & 眼部인식](https://github.com/LEESYUNN/Prototyping/blob/master/OpenCV_face_eyes_detection.ipynb)
