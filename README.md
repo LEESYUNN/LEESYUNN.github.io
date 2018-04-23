@@ -7,5 +7,5 @@
 
 ### 인공지능
 
-- 180423 [Tensorflow Serving 설치 on Ubuntu 1604](https://note.youdao.com/share/?id=60f0b2ce567887ec6469e7f2220958f6&type=note#/)
+- 180423 <a href="https://note.youdao.com/share/?id=60f0b2ce567887ec6469e7f2220958f6&type=note#/" target="_blank">Tensorflow Serving 설치 with Ubuntu 1604</a>
 
