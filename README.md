@@ -1,37 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LEESYUNN/LEESYUNN.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+여러가지 작업을 진행하면서 격었던 에러들을 정리하는 공간입니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 인공지능
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 180423 [Tensorflow Serving 설치](https://note.youdao.com/share/?id=60f0b2ce567887ec6469e7f2220958f6&type=note#/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LEESYUNN/LEESYUNN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
